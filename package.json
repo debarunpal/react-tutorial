@@ -1,0 +1,30 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "A very basic react tutorial.",
+  "main": "index.js",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "babelify": "^7.3.0",
+    "browserify": "^13.1.1",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/debarunpal/react-tutorial.git"
+  },
+  "keywords": [
+    "ReactJS"
+  ],
+  "author": "Debarun Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debarunpal/react-tutorial/issues"
+  },
+  "homepage": "https://github.com/debarunpal/react-tutorial#readme"
+}
